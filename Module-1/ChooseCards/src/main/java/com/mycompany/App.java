@@ -1,3 +1,10 @@
+/*
+Rebecca Palmer
+CSD 420
+Assignment 1.2
+10/25/26
+*/
+
 package com.mycompany;
 
 import java.util.ArrayList;
